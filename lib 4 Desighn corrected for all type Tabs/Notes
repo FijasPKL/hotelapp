@@ -1,7 +1,0 @@
-selectedItemsOldPrintList[] = This list is using for the KOT  items , when they recieve
-selectedItemsOldPrintList[] = This list is using for the print items ,when they recieve
-
-// Desighs bug in app
-Your overflow problem is coming from fixed heights + fixed widths inside a Column in landscape mode.
-Different tablet sizes = different available height.
-But you are forcing:
